@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JaredClima/static/css/main.9e7c55cd.css",
+    "main.js": "/JaredClima/static/js/main.14356fa3.js",
+    "index.html": "/JaredClima/index.html",
+    "main.9e7c55cd.css.map": "/JaredClima/static/css/main.9e7c55cd.css.map",
+    "main.14356fa3.js.map": "/JaredClima/static/js/main.14356fa3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e7c55cd.css",
+    "static/js/main.14356fa3.js"
+  ]
+}
